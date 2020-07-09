@@ -1,0 +1,147 @@
+
+/*-1st section css -*/
+.image-icon{
+    width:198.07px; height:59px;
+}
+.header{
+    background-color: #F0FFF0 !important;
+
+}
+span{
+    color:#21B573;
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+}
+h6{
+    color:red;
+}
+.e-school-words{
+    color:gray;
+
+}
+
+.head ul li a:hover {
+    background-color: yellow;
+  }
+.top-btn{
+    width:104px;
+    height:43px;
+    background:#21B573;
+    border-radius:33px;
+    margin-left:10px;
+}
+.get-started{
+    width:200px;
+}
+
+
+/*- 2nd part Css-*/
+
+.card, .col{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px rgb(238, 233, 233);
+    margin: 30px 30px;
+}
+
+.col:hover, .card:hover{
+    box-shadow: 10px 10px 10px dimgrey;
+    transition: 0.2s;
+}
+.btn-round:hover{
+
+    background-color:rgb(142, 167, 167);
+    transition: 0.2s;
+   
+
+}
+.card-text{
+    color: black !important;
+}
+
+.icon{
+
+    margin-top: 15px;
+    margin-left: 4px;
+    margin-right: 55px;
+
+}
+/*-online courses section-*/
+.online-courses{
+    text-align: center;
+}
+.container-slide{
+    text-align: center;
+    background-color:#ff7675;
+}
+.price{
+   
+    color:#2196F3;
+    font-family: 'Bangers', cursive;
+}
+/*-5th part css-*/
+
+.photo{
+    background-color: white;
+    width: 50%;
+    height: 5%;
+    
+
+}
+.text-footer{
+    padding-left: 2px;
+}
+.col{
+    text-align: center;
+}
+
+/*-testimonial section css-*/
+
+
+.tastimonial-text{
+    
+    width: auto;
+}
+.test-center{
+    text-align: center;
+
+    
+}
+
+
+/*- End-part section Css Started Here-*/
+
+
+.Million-section{
+    
+   background-color: #282531;
+   margin-bottom: 0 !important;
+   margin-top: 30px;
+   
+
+}
+.enroll{
+    color: #21B573;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.center{
+    padding: 70px;
+}
+.footer-text{
+    text-align:justify;
+    color: whitesmoke;
+}
+
+.footer-last-text{
+    text-align: center !important;
+    font-size: 14px;
+}
+.last-part-H3{
+    color:white;
+}
